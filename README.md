@@ -12,10 +12,10 @@ Claude Code plugin marketplace by [@berrzebb](https://github.com/berrzebb).
 
 ```bash
 # Add this marketplace
-claude marketplace add berrzebb/claude-plugins
+claude marketplace add berrzebb/berrzebb-plugins
 
 # Install a plugin
-claude plugin add consensus-loop@claude-plugins
+claude plugin add consensus-loop@berrzebb-plugins
 ```
 
 ## Adding New Plugins
