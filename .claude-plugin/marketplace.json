@@ -11,8 +11,8 @@
         "source": "github",
         "repo": "berrzebb/consensus-loop"
       },
-      "description": "AI development loop — orchestrator distributes tasks to headless workers, independent auditor verifies, automated retrospective drives self-improvement.",
-      "version": "2.4.0"
+      "description": "AI development loop — orchestrator distributes tasks to headless workers, independent auditor verifies, structural enforcement auto-blocks on upstream failure. Full-cycle validated.",
+      "version": "2.5.0"
     }
   ]
 }
