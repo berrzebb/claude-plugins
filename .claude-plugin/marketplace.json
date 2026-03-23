@@ -8,7 +8,7 @@
     {
       "name": "consensus-loop",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/berrzebb/consensus-loop.git"
       },
       "description": "AI development loop — orchestrator distributes tasks to headless workers, independent auditor verifies, structural enforcement auto-blocks on upstream failure. Full-cycle validated.",
@@ -17,7 +17,7 @@
     {
       "name": "quorum",
       "source": {
-        "source": "git",
+        "source": "url",
         "url": "https://github.com/berrzebb/quorum.git"
       },
       "description": "Cross-model audit gate with domain specialists — 9 conditional expert reviewers, unified SQLite state, 17 deterministic MCP tools, atomic consensus writes. Standalone CLI + Claude Code plugin.",
