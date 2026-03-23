@@ -6,7 +6,7 @@ Claude Code plugin marketplace by [@berrzebb](https://github.com/berrzebb).
 
 | Plugin | Description | Repository |
 |--------|-------------|------------|
-| [quorum](https://github.com/berrzebb/quorum) | Cross-model audit gate — deliberative consensus, conditional trigger, stagnation detection, dynamic escalation. Standalone CLI + Claude Code plugin. | [berrzebb/quorum](https://github.com/berrzebb/quorum) |
+| [quorum](https://github.com/berrzebb/quorum) | Cross-model audit gate with domain specialists — 9 conditional expert reviewers, unified SQLite state, 17 MCP tools. Standalone CLI + Claude Code plugin. (v0.3.0) | [berrzebb/quorum](https://github.com/berrzebb/quorum) |
 | [consensus-loop](https://github.com/berrzebb/consensus-loop) | AI development loop — orchestrator distributes tasks to headless workers, independent auditor verifies. (v2.5.0 frozen, succeeded by quorum) | [berrzebb/consensus-loop](https://github.com/berrzebb/consensus-loop) |
 
 ## Installation

@@ -20,8 +20,8 @@
         "source": "github",
         "repo": "berrzebb/quorum"
       },
-      "description": "Cross-model audit gate with structural enforcement. Deliberative consensus (3-role), conditional trigger, stagnation detection, dynamic escalation. Standalone CLI + Claude Code plugin.",
-      "version": "0.2.6"
+      "description": "Cross-model audit gate with domain specialists — 9 conditional expert reviewers, unified SQLite state, 17 deterministic MCP tools, atomic consensus writes. Standalone CLI + Claude Code plugin.",
+      "version": "0.3.0"
     }
   ]
 }
